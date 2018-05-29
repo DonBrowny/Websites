@@ -1,0 +1,26 @@
+/* colours */
+.main-row{
+    background-color: #432C85;
+}
+.nav-item {    
+    color: white;
+}
+.nav-icon span {    
+    background: white;
+}
+.nav-side{
+    background-color: gray;
+}
+.nav-side a {
+    color: #000;
+    border-bottom: 4px solid gray;
+}
+
+.nav-side a:hover {
+    border-bottom: 4px solid #ffffff;
+}
+
+.nav-side a.active {
+    border-bottom: 4px solid green;
+}
+/* colours */
